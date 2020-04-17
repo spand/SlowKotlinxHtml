@@ -1,0 +1,4 @@
+rootProject.name = 'SlowKotlinxHtml'
+
+
+enableFeaturePreview('GRADLE_METADATA')
