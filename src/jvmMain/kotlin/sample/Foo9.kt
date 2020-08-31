@@ -3,7 +3,7 @@ package sample
 import kotlinx.html.FlowContent
 import kotlinx.html.div
 
-private object Foo {
+private object Foo9 {
 
     fun FlowContent.foo() {
         div {
